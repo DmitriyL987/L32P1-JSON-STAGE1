@@ -1,0 +1,13 @@
+Enter the title and release year of the movie: Shang-Chi and the Legend of the Ten Rings
+2021
+ Enter the genre and duration of the picture: fantasy
+103 minute
+ Enter the country and the sh
+ooting studio: USA, Australia
+Marvel
+ Enter the author of the script, director and producer of the picture: Destin Daniel Cretton
+Destin Daniel Cretton
+Destin Daniel Cretton
+ Enter the country and the shooting
+studio:+12
+Simulyu, Tony Leung Chu Wai, Aquafina, Michelle Yeoh, Florian Munteanu, Ronnie Chien, Chen Fala, Dallas Liu, Zhang Menger, Kelly Bailey
